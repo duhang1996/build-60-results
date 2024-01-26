@@ -1,7 +1,0 @@
-public class FunctionUse3370 {
-
-    public void funcUse() {
-		org.apache.dubbo.remoting.transport.ServerDelegate serverdelegate = new org.apache.dubbo.remoting.transport.ServerDelegate();
-		serverdelegate.startClose(null);
-    }
-}

@@ -1,7 +1,0 @@
-public class FunctionUse6891 {
-
-    public void funcUse() {
-		org.apache.hadoop.ipc.protobuf.ProtocolInfoProtos.ProtocolVersionProtoOrBuilder protocolversionprotoorbuilder = new org.apache.hadoop.ipc.protobuf.ProtocolInfoProtos.ProtocolVersionProtoOrBuilder();
-		protocolversionprotoorbuilder.getRpcKind(null);
-    }
-}

@@ -1,6 +1,0 @@
-public class FunctionUse4440 {
-
-    public void funcUse() {
-		org.apache.hadoop.io.ArrayPrimitiveWritable.Internal internal = new org.apache.hadoop.io.ArrayPrimitiveWritable.Internal();
-    }
-}

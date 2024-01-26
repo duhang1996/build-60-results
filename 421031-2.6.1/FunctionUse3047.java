@@ -1,7 +1,0 @@
-public class FunctionUse3047 {
-
-    public void funcUse() {
-		org.apache.hadoop.ha.HAServiceStatus haservicestatus = new org.apache.hadoop.ha.HAServiceStatus();
-		haservicestatus.isReadyToBecomeActive(null);
-    }
-}

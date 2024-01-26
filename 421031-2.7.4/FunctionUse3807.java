@@ -1,7 +1,0 @@
-public class FunctionUse3807 {
-
-    public void funcUse() {
-		org.apache.hadoop.ipc.protobuf.RpcHeaderProtos.RpcResponseHeaderProto.RpcErrorCodeProto rpcerrorcodeproto = new org.apache.hadoop.ipc.protobuf.RpcHeaderProtos.RpcResponseHeaderProto.RpcErrorCodeProto();
-		rpcerrorcodeproto.internalGetValueMap(null);
-    }
-}

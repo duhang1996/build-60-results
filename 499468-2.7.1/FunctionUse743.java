@@ -1,7 +1,0 @@
-public class FunctionUse743 {
-
-    public void funcUse() {
-		org.apache.dubbo.common.extension.ExtensionLoader extensionloader = new org.apache.dubbo.common.extension.ExtensionLoader();
-		extensionloader.cacheName(null);
-    }
-}

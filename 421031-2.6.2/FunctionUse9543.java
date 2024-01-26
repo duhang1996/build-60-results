@@ -1,6 +1,0 @@
-public class FunctionUse9543 {
-
-    public void funcUse() {
-		org.apache.hadoop.net.NodeBase nodebase = new org.apache.hadoop.net.NodeBase();
-    }
-}

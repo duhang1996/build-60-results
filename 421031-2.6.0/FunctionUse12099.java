@@ -1,7 +1,0 @@
-public class FunctionUse12099 {
-
-    public void funcUse() {
-		org.apache.hadoop.security.UserGroupInformation.TestingGroups testinggroups = new org.apache.hadoop.security.UserGroupInformation.TestingGroups();
-		testinggroups.access$1300(null);
-    }
-}

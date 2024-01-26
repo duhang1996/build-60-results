@@ -1,6 +1,0 @@
-public class FunctionUse8995 {
-
-    public void funcUse() {
-		org.apache.hadoop.record.BinaryRecordOutput.1 1 = new org.apache.hadoop.record.BinaryRecordOutput.1();
-    }
-}

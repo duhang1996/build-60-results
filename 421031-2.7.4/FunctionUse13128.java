@@ -1,6 +1,0 @@
-public class FunctionUse13128 {
-
-    public void funcUse() {
-		org.apache.hadoop.util.VersionInfo versioninfo = new org.apache.hadoop.util.VersionInfo();
-    }
-}

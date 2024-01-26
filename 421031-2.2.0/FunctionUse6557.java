@@ -1,7 +1,0 @@
-public class FunctionUse6557 {
-
-    public void funcUse() {
-		org.apache.hadoop.io.compress.CompressorStream compressorstream = new org.apache.hadoop.io.compress.CompressorStream();
-		compressorstream.compress(null);
-    }
-}

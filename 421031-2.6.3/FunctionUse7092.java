@@ -1,7 +1,0 @@
-public class FunctionUse7092 {
-
-    public void funcUse() {
-		org.apache.hadoop.http.HttpServer httpserver = new org.apache.hadoop.http.HttpServer();
-		httpserver.getWebAppsPath(null);
-    }
-}

@@ -1,7 +1,0 @@
-public class FunctionUse920 {
-
-    public void funcUse() {
-		org.apache.dubbo.common.bytecode.Wrapper wrapper = new org.apache.dubbo.common.bytecode.Wrapper();
-		wrapper.getMethodNames(null);
-    }
-}

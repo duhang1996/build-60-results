@@ -1,7 +1,0 @@
-public class FunctionUse2437 {
-
-    public void funcUse() {
-		com.alibaba.dubbo.common.extension.ExtensionLoader extensionloader = new com.alibaba.dubbo.common.extension.ExtensionLoader();
-		extensionloader.loadFile(null);
-    }
-}

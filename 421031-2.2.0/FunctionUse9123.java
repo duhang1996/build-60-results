@@ -1,7 +1,0 @@
-public class FunctionUse9123 {
-
-    public void funcUse() {
-		org.apache.hadoop.tools.proto.GetUserMappingsProtocolProtos.GetGroupsForUserRequestProto.Builder builder = new org.apache.hadoop.tools.proto.GetUserMappingsProtocolProtos.GetGroupsForUserRequestProto.Builder();
-		builder.getDefaultInstanceForType(null);
-    }
-}

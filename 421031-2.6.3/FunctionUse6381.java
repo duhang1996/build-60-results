@@ -1,7 +1,0 @@
-public class FunctionUse6381 {
-
-    public void funcUse() {
-		org.apache.hadoop.ipc.Server server = new org.apache.hadoop.ipc.Server();
-		server.access$3200(null);
-    }
-}

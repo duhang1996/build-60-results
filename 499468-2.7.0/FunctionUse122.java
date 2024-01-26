@@ -1,7 +1,0 @@
-public class FunctionUse122 {
-
-    public void funcUse() {
-		org.apache.dubbo.rpc.cluster.router.condition.config.model.ConditionRuleParser conditionruleparser = new org.apache.dubbo.rpc.cluster.router.condition.config.model.ConditionRuleParser();
-		conditionruleparser.parse(null);
-    }
-}

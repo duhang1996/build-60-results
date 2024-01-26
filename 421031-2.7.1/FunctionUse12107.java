@@ -1,7 +1,0 @@
-public class FunctionUse12107 {
-
-    public void funcUse() {
-		org.apache.hadoop.security.token.TokenIdentifier tokenidentifier = new org.apache.hadoop.security.token.TokenIdentifier();
-		tokenidentifier.getKind(null);
-    }
-}

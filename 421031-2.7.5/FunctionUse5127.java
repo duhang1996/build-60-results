@@ -1,7 +1,0 @@
-public class FunctionUse5127 {
-
-    public void funcUse() {
-		org.apache.hadoop.metrics2.lib.MetricsRegistry metricsregistry = new org.apache.hadoop.metrics2.lib.MetricsRegistry();
-		metricsregistry.toString(null);
-    }
-}

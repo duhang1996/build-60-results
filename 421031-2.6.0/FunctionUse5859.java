@@ -1,7 +1,0 @@
-public class FunctionUse5859 {
-
-    public void funcUse() {
-		org.apache.hadoop.io.SequenceFile.Writer writer = new org.apache.hadoop.io.SequenceFile.Writer();
-		writer.syncFs(null);
-    }
-}

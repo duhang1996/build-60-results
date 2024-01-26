@@ -1,6 +1,0 @@
-public class FunctionUse4213 {
-
-    public void funcUse() {
-		org.apache.dubbo.rpc.AbstractResult abstractresult = new org.apache.dubbo.rpc.AbstractResult();
-    }
-}

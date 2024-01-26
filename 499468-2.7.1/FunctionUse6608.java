@@ -1,7 +1,0 @@
-public class FunctionUse6608 {
-
-    public void funcUse() {
-		com.alibaba.dubbo.config.annotation.Service service = new com.alibaba.dubbo.config.annotation.Service();
-		service.owner(null);
-    }
-}

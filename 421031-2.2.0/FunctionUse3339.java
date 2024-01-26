@@ -1,7 +1,0 @@
-public class FunctionUse3339 {
-
-    public void funcUse() {
-		org.apache.hadoop.fs.FileContext.Util util = new org.apache.hadoop.fs.FileContext.Util();
-		util.getFileStatus(null);
-    }
-}

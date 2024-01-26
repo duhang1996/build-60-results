@@ -1,7 +1,0 @@
-public class FunctionUse14011 {
-
-    public void funcUse() {
-		org.apache.hadoop.conf.Configuration configuration = new org.apache.hadoop.conf.Configuration();
-		configuration.unset(null);
-    }
-}

@@ -1,7 +1,0 @@
-public class FunctionUse5769 {
-
-    public void funcUse() {
-		org.apache.hadoop.io.WritableComparator writablecomparator = new org.apache.hadoop.io.WritableComparator();
-		writablecomparator.readDouble(null);
-    }
-}

@@ -1,7 +1,0 @@
-public class FunctionUse2208 {
-
-    public void funcUse() {
-		org.apache.hadoop.fs.RawLocalFileSystem rawlocalfilesystem = new org.apache.hadoop.fs.RawLocalFileSystem();
-		rawlocalfilesystem.primitiveMkdir(null);
-    }
-}

@@ -1,7 +1,0 @@
-public class FunctionUse2718 {
-
-    public void funcUse() {
-		org.apache.hadoop.fs.ChecksumFileSystem checksumfilesystem = new org.apache.hadoop.fs.ChecksumFileSystem();
-		checksumfilesystem.delete(null);
-    }
-}

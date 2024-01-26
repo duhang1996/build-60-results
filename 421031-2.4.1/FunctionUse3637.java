@@ -1,6 +1,0 @@
-public class FunctionUse3637 {
-
-    public void funcUse() {
-		org.apache.hadoop.io.SequenceFile.Metadata metadata = new org.apache.hadoop.io.SequenceFile.Metadata();
-    }
-}

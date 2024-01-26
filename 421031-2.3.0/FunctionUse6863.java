@@ -1,7 +1,0 @@
-public class FunctionUse6863 {
-
-    public void funcUse() {
-		org.apache.hadoop.ipc.protobuf.RpcHeaderProtos rpcheaderprotos = new org.apache.hadoop.ipc.protobuf.RpcHeaderProtos();
-		rpcheaderprotos.registerAllExtensions(null);
-    }
-}

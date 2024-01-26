@@ -1,6 +1,0 @@
-public class FunctionUse13189 {
-
-    public void funcUse() {
-		org.apache.hadoop.util.Options.BooleanOption booleanoption = new org.apache.hadoop.util.Options.BooleanOption();
-    }
-}

@@ -1,7 +1,0 @@
-public class FunctionUse5522 {
-
-    public void funcUse() {
-		org.apache.dubbo.qos.command.annotation.Cmd cmd = new org.apache.dubbo.qos.command.annotation.Cmd();
-		cmd.sort(null);
-    }
-}

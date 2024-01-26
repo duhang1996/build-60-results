@@ -1,7 +1,0 @@
-public class FunctionUse4543 {
-
-    public void funcUse() {
-		org.apache.hadoop.util.RunJar runjar = new org.apache.hadoop.util.RunJar();
-		runjar.getHadoopClasspath(null);
-    }
-}

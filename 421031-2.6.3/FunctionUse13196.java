@@ -1,7 +1,0 @@
-public class FunctionUse13196 {
-
-    public void funcUse() {
-		org.apache.hadoop.io.file.tfile.Utils utils = new org.apache.hadoop.io.file.tfile.Utils();
-		utils.writeVInt(null);
-    }
-}

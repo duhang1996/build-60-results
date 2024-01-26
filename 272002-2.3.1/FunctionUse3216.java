@@ -1,7 +1,0 @@
-public class FunctionUse3216 {
-
-    public void funcUse() {
-		com.alibaba.dubbo.common.json.Yylex yylex = new com.alibaba.dubbo.common.json.Yylex();
-		yylex.yystate(null);
-    }
-}

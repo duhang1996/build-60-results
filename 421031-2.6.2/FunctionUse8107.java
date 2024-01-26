@@ -1,6 +1,0 @@
-public class FunctionUse8107 {
-
-    public void funcUse() {
-		org.apache.hadoop.ipc.ProtocolSignature.ProtocolSigFingerprint protocolsigfingerprint = new org.apache.hadoop.ipc.ProtocolSignature.ProtocolSigFingerprint();
-    }
-}

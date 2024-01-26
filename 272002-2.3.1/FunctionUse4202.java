@@ -1,7 +1,0 @@
-public class FunctionUse4202 {
-
-    public void funcUse() {
-		com.alibaba.dubbo.rpc.protocol.rmi.RmiProtocol rmiprotocol = new com.alibaba.dubbo.rpc.protocol.rmi.RmiProtocol();
-		rmiprotocol.doRefer(null);
-    }
-}

@@ -1,6 +1,0 @@
-public class FunctionUse13563 {
-
-    public void funcUse() {
-		org.apache.hadoop.io.BoundedByteArrayOutputStream boundedbytearrayoutputstream = new org.apache.hadoop.io.BoundedByteArrayOutputStream();
-    }
-}

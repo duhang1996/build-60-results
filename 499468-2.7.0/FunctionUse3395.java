@@ -1,7 +1,0 @@
-public class FunctionUse3395 {
-
-    public void funcUse() {
-		org.apache.dubbo.remoting.telnet.support.TelnetUtils telnetutils = new org.apache.dubbo.remoting.telnet.support.TelnetUtils();
-		telnetutils.toTable(null);
-    }
-}
