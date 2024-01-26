@@ -1,0 +1,6 @@
+public class FunctionUse2635 {
+
+    public void funcUse() {
+		com.alibaba.dubbo.common.Parameters parameters = new com.alibaba.dubbo.common.Parameters();
+    }
+}

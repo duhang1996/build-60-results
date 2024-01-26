@@ -1,0 +1,7 @@
+public class FunctionUse3226 {
+
+    public void funcUse() {
+		com.fasterxml.jackson.databind.ser.std.StdArraySerializers.BooleanArraySerializer booleanarrayserializer = new com.fasterxml.jackson.databind.ser.std.StdArraySerializers.BooleanArraySerializer();
+		booleanarrayserializer.getContentType(null);
+    }
+}

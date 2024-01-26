@@ -1,0 +1,7 @@
+public class FunctionUse4022 {
+
+    public void funcUse() {
+		com.alibaba.dubbo.rpc.filter.ConsumerContextFilter consumercontextfilter = new com.alibaba.dubbo.rpc.filter.ConsumerContextFilter();
+		consumercontextfilter.invoke(null);
+    }
+}
