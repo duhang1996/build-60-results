@@ -1,0 +1,7 @@
+public class FunctionUse174 {
+
+    public void funcUse() {
+		io.netty.channel.EventExecutor eventexecutor = new io.netty.channel.EventExecutor();
+		eventexecutor.parent(null);
+    }
+}

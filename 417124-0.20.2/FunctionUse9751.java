@@ -1,0 +1,7 @@
+public class FunctionUse9751 {
+
+    public void funcUse() {
+		org.apache.hadoop.util.CyclicIteration.CyclicIterator cycliciterator = new org.apache.hadoop.util.CyclicIteration.CyclicIterator();
+		cycliciterator.remove(null);
+    }
+}

@@ -1,0 +1,7 @@
+public class FunctionUse2113 {
+
+    public void funcUse() {
+		org.jboss.netty.handler.codec.http.HttpChunkAggregator httpchunkaggregator = new org.jboss.netty.handler.codec.http.HttpChunkAggregator();
+		httpchunkaggregator.getMaxCumulationBufferComponents(null);
+    }
+}

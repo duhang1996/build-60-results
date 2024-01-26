@@ -1,0 +1,7 @@
+public class FunctionUse4020 {
+
+    public void funcUse() {
+		io.netty.handler.codec.http.HttpResponseDecoder httpresponsedecoder = new io.netty.handler.codec.http.HttpResponseDecoder();
+		httpresponsedecoder.createInvalidMessage(null);
+    }
+}

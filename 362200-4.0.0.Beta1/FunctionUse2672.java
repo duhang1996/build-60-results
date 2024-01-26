@@ -1,0 +1,7 @@
+public class FunctionUse2672 {
+
+    public void funcUse() {
+		io.netty.buffer.AbstractByteBuf abstractbytebuf = new io.netty.buffer.AbstractByteBuf();
+		abstractbytebuf.writeShort(null);
+    }
+}

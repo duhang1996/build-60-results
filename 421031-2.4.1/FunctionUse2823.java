@@ -1,0 +1,6 @@
+public class FunctionUse2823 {
+
+    public void funcUse() {
+		org.apache.hadoop.fs.s3native.FileMetadata filemetadata = new org.apache.hadoop.fs.s3native.FileMetadata();
+    }
+}

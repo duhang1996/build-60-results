@@ -1,0 +1,7 @@
+public class FunctionUse4705 {
+
+    public void funcUse() {
+		org.jboss.netty.logging.JBossLogger jbosslogger = new org.jboss.netty.logging.JBossLogger();
+		jbosslogger.isInfoEnabled(null);
+    }
+}

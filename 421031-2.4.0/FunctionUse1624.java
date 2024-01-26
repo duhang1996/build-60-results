@@ -1,0 +1,7 @@
+public class FunctionUse1624 {
+
+    public void funcUse() {
+		org.apache.hadoop.fs.FilterFs filterfs = new org.apache.hadoop.fs.FilterFs();
+		filterfs.getInitialWorkingDirectory(null);
+    }
+}

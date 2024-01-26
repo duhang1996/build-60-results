@@ -1,0 +1,7 @@
+public class FunctionUse8014 {
+
+    public void funcUse() {
+		org.apache.hadoop.ha.SshFenceByTcpPort sshfencebytcpport = new org.apache.hadoop.ha.SshFenceByTcpPort();
+		sshfencebytcpport.createSession(null);
+    }
+}

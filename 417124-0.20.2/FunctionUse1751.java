@@ -1,0 +1,7 @@
+public class FunctionUse1751 {
+
+    public void funcUse() {
+		org.apache.hadoop.hdfs.server.common.Storage.StorageDirectory storagedirectory = new org.apache.hadoop.hdfs.server.common.Storage.StorageDirectory();
+		storagedirectory.getPreviousDir(null);
+    }
+}

@@ -1,0 +1,7 @@
+public class FunctionUse7028 {
+
+    public void funcUse() {
+		org.apache.hadoop.mapred.TaskInProgress.FailedRanges failedranges = new org.apache.hadoop.mapred.TaskInProgress.FailedRanges();
+		failedranges.getIndicesCount(null);
+    }
+}

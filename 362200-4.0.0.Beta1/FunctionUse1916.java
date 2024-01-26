@@ -1,0 +1,7 @@
+public class FunctionUse1916 {
+
+    public void funcUse() {
+		io.netty.channel.aio.AioEventLoopGroup.AioExecutorService aioexecutorservice = new io.netty.channel.aio.AioEventLoopGroup.AioExecutorService();
+		aioexecutorservice.shutdown(null);
+    }
+}

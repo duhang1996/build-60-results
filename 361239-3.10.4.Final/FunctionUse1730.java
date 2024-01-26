@@ -1,0 +1,7 @@
+public class FunctionUse1730 {
+
+    public void funcUse() {
+		org.jboss.netty.channel.socket.oio.OioAcceptedSocketChannel oioacceptedsocketchannel = new org.jboss.netty.channel.socket.oio.OioAcceptedSocketChannel();
+		oioacceptedsocketchannel.getInputStream(null);
+    }
+}

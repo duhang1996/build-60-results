@@ -1,0 +1,7 @@
+public class FunctionUse8108 {
+
+    public void funcUse() {
+		org.apache.hadoop.mapred.lib.aggregate.StringValueMin stringvaluemin = new org.apache.hadoop.mapred.lib.aggregate.StringValueMin();
+		stringvaluemin.getReport(null);
+    }
+}

@@ -1,0 +1,6 @@
+public class FunctionUse303 {
+
+    public void funcUse() {
+		io.netty.handler.codec.http.websocketx.WebSocketServerProtocolHandshakeHandler websocketserverprotocolhandshakehandler = new io.netty.handler.codec.http.websocketx.WebSocketServerProtocolHandshakeHandler();
+    }
+}

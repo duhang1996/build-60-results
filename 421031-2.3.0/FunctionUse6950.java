@@ -1,0 +1,7 @@
+public class FunctionUse6950 {
+
+    public void funcUse() {
+		org.apache.hadoop.ipc.protobuf.TestProtos.EchoRequestProtoOrBuilder echorequestprotoorbuilder = new org.apache.hadoop.ipc.protobuf.TestProtos.EchoRequestProtoOrBuilder();
+		echorequestprotoorbuilder.getMessage(null);
+    }
+}

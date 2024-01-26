@@ -1,0 +1,7 @@
+public class FunctionUse11440 {
+
+    public void funcUse() {
+		org.apache.hadoop.util.Waitable waitable = new org.apache.hadoop.util.Waitable();
+		waitable.await(null);
+    }
+}

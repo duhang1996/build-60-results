@@ -1,0 +1,7 @@
+public class FunctionUse2987 {
+
+    public void funcUse() {
+		org.apache.hadoop.hdfs.server.namenode.NameNode namenode = new org.apache.hadoop.hdfs.server.namenode.NameNode();
+		namenode.getNetworkTopology(null);
+    }
+}

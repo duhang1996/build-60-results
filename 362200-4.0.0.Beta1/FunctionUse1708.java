@@ -1,0 +1,7 @@
+public class FunctionUse1708 {
+
+    public void funcUse() {
+		io.netty.channel.ChannelHandlerAdapter channelhandleradapter = new io.netty.channel.ChannelHandlerAdapter();
+		channelhandleradapter.afterRemove(null);
+    }
+}

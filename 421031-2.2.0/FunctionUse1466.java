@@ -1,0 +1,7 @@
+public class FunctionUse1466 {
+
+    public void funcUse() {
+		org.apache.hadoop.net.NetworkTopology networktopology = new org.apache.hadoop.net.NetworkTopology();
+		networktopology.getLastHalf(null);
+    }
+}

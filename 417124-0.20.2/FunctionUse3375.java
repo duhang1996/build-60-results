@@ -1,0 +1,7 @@
+public class FunctionUse3375 {
+
+    public void funcUse() {
+		org.apache.hadoop.hdfs.tools.DFSck dfsck = new org.apache.hadoop.hdfs.tools.DFSck();
+		dfsck.main(null);
+    }
+}

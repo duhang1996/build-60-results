@@ -1,0 +1,7 @@
+public class FunctionUse5954 {
+
+    public void funcUse() {
+		org.apache.hadoop.mapred.JobTracker.RecoveryManager recoverymanager = new org.apache.hadoop.mapred.JobTracker.RecoveryManager();
+		recoverymanager.isJobNameValid(null);
+    }
+}

@@ -1,0 +1,7 @@
+public class FunctionUse939 {
+
+    public void funcUse() {
+		org.jboss.netty.channel.SimpleChannelHandler simplechannelhandler = new org.jboss.netty.channel.SimpleChannelHandler();
+		simplechannelhandler.writeRequested(null);
+    }
+}

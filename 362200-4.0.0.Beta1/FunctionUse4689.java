@@ -1,0 +1,7 @@
+public class FunctionUse4689 {
+
+    public void funcUse() {
+		io.netty.handler.codec.compression.Snappy.State state = new io.netty.handler.codec.compression.Snappy.State();
+		state.values(null);
+    }
+}

@@ -1,0 +1,6 @@
+public class FunctionUse391 {
+
+    public void funcUse() {
+		io.netty.channel.DefaultChannelHandlerContext.21 21 = new io.netty.channel.DefaultChannelHandlerContext.21();
+    }
+}

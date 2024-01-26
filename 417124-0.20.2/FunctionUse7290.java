@@ -1,0 +1,7 @@
+public class FunctionUse7290 {
+
+    public void funcUse() {
+		org.apache.hadoop.mapred.TaskTracker.TaskInProgress taskinprogress = new org.apache.hadoop.mapred.TaskTracker.TaskInProgress();
+		taskinprogress.runScript(null);
+    }
+}

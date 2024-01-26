@@ -1,0 +1,6 @@
+public class FunctionUse4782 {
+
+    public void funcUse() {
+		org.apache.hadoop.ipc.Client.ParallelCall parallelcall = new org.apache.hadoop.ipc.Client.ParallelCall();
+    }
+}

@@ -1,0 +1,6 @@
+public class FunctionUse11047 {
+
+    public void funcUse() {
+		org.apache.hadoop.util.Options.ClassOption classoption = new org.apache.hadoop.util.Options.ClassOption();
+    }
+}
