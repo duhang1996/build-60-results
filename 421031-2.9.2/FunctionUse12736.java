@@ -1,6 +1,0 @@
-public class FunctionUse12736 {
-
-    public void funcUse() {
-		org.apache.hadoop.fs.crypto.CryptoFSDataInputStream cryptofsdatainputstream = new org.apache.hadoop.fs.crypto.CryptoFSDataInputStream();
-    }
-}

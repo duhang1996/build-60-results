@@ -1,7 +1,0 @@
-public class FunctionUse5924 {
-
-    public void funcUse() {
-		org.apache.hadoop.record.XmlRecordOutput xmlrecordoutput = new org.apache.hadoop.record.XmlRecordOutput();
-		xmlrecordoutput.insideVector(null);
-    }
-}

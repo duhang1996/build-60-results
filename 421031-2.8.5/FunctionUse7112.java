@@ -1,6 +1,0 @@
-public class FunctionUse7112 {
-
-    public void funcUse() {
-		org.apache.hadoop.security.User user = new org.apache.hadoop.security.User();
-    }
-}

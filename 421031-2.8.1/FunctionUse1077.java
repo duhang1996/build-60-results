@@ -1,7 +1,0 @@
-public class FunctionUse1077 {
-
-    public void funcUse() {
-		org.apache.hadoop.fs.DelegateToFileSystem delegatetofilesystem = new org.apache.hadoop.fs.DelegateToFileSystem();
-		delegatetofilesystem.supportsSymlinks(null);
-    }
-}

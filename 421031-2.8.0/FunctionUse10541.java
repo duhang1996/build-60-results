@@ -1,7 +1,0 @@
-public class FunctionUse10541 {
-
-    public void funcUse() {
-		org.apache.hadoop.ipc.Server.Call call = new org.apache.hadoop.ipc.Server.Call();
-		call.getHostAddress(null);
-    }
-}

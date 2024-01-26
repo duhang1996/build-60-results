@@ -1,6 +1,0 @@
-public class FunctionUse13321 {
-
-    public void funcUse() {
-		org.apache.hadoop.service.LifecycleEvent lifecycleevent = new org.apache.hadoop.service.LifecycleEvent();
-    }
-}

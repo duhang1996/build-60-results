@@ -1,6 +1,0 @@
-public class FunctionUse2176 {
-
-    public void funcUse() {
-		org.apache.hadoop.io.WritableFactories writablefactories = new org.apache.hadoop.io.WritableFactories();
-    }
-}

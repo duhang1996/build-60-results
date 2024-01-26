@@ -1,6 +1,0 @@
-public class FunctionUse11508 {
-
-    public void funcUse() {
-		org.apache.hadoop.crypto.CryptoProtocolVersion cryptoprotocolversion = new org.apache.hadoop.crypto.CryptoProtocolVersion();
-    }
-}

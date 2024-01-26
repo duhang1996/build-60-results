@@ -1,7 +1,0 @@
-public class FunctionUse15032 {
-
-    public void funcUse() {
-		org.apache.hadoop.io.LongWritable longwritable = new org.apache.hadoop.io.LongWritable();
-		longwritable.write(null);
-    }
-}

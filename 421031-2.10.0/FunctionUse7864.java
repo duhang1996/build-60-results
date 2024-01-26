@@ -1,6 +1,0 @@
-public class FunctionUse7864 {
-
-    public void funcUse() {
-		org.apache.hadoop.fs.BlockLocation blocklocation = new org.apache.hadoop.fs.BlockLocation();
-    }
-}

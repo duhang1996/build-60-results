@@ -1,6 +1,0 @@
-public class FunctionUse7224 {
-
-    public void funcUse() {
-		org.apache.hadoop.ipc.DecayRpcScheduler.MetricsProxy metricsproxy = new org.apache.hadoop.ipc.DecayRpcScheduler.MetricsProxy();
-    }
-}

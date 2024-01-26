@@ -1,6 +1,0 @@
-public class FunctionUse2925 {
-
-    public void funcUse() {
-		org.apache.hadoop.record.compiler.generated.RccTokenManager rcctokenmanager = new org.apache.hadoop.record.compiler.generated.RccTokenManager();
-    }
-}

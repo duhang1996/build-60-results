@@ -1,7 +1,0 @@
-public class FunctionUse12116 {
-
-    public void funcUse() {
-		org.apache.hadoop.security.http.CrossOriginFilter crossoriginfilter = new org.apache.hadoop.security.http.CrossOriginFilter();
-		crossoriginfilter.destroy(null);
-    }
-}

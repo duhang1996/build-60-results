@@ -1,7 +1,0 @@
-public class FunctionUse3956 {
-
-    public void funcUse() {
-		org.apache.hadoop.fs.shell.Command command = new org.apache.hadoop.fs.shell.Command();
-		command.processPathArgument(null);
-    }
-}

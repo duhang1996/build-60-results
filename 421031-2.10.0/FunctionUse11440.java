@@ -1,6 +1,0 @@
-public class FunctionUse11440 {
-
-    public void funcUse() {
-		org.apache.hadoop.crypto.key.KeyProviderFactory keyproviderfactory = new org.apache.hadoop.crypto.key.KeyProviderFactory();
-    }
-}

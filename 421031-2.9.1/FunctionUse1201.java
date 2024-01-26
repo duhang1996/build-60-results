@@ -1,7 +1,0 @@
-public class FunctionUse1201 {
-
-    public void funcUse() {
-		org.apache.hadoop.fs.FileContext.10 10 = new org.apache.hadoop.fs.FileContext.10();
-		10.next(null);
-    }
-}

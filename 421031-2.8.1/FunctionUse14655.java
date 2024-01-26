@@ -1,6 +1,0 @@
-public class FunctionUse14655 {
-
-    public void funcUse() {
-		org.apache.hadoop.util.NodeHealthScriptRunner.HealthCheckerExitStatus healthcheckerexitstatus = new org.apache.hadoop.util.NodeHealthScriptRunner.HealthCheckerExitStatus();
-    }
-}

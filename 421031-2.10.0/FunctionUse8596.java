@@ -1,7 +1,0 @@
-public class FunctionUse8596 {
-
-    public void funcUse() {
-		org.apache.hadoop.fs.DelegationTokenRenewer delegationtokenrenewer = new org.apache.hadoop.fs.DelegationTokenRenewer();
-		delegationtokenrenewer.run(null);
-    }
-}

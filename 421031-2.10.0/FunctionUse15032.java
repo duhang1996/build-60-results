@@ -1,7 +1,0 @@
-public class FunctionUse15032 {
-
-    public void funcUse() {
-		org.apache.hadoop.ipc.WritableRpcEngine.Invocation invocation = new org.apache.hadoop.ipc.WritableRpcEngine.Invocation();
-		invocation.getMethodName(null);
-    }
-}

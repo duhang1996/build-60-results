@@ -1,6 +1,0 @@
-public class FunctionUse696 {
-
-    public void funcUse() {
-		org.apache.hadoop.util.UTF8ByteArrayUtils utf8bytearrayutils = new org.apache.hadoop.util.UTF8ByteArrayUtils();
-    }
-}

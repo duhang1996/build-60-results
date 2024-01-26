@@ -1,7 +1,0 @@
-public class FunctionUse10473 {
-
-    public void funcUse() {
-		org.apache.hadoop.fs.QuotaUsage.Builder builder = new org.apache.hadoop.fs.QuotaUsage.Builder();
-		builder.access$000(null);
-    }
-}

@@ -1,7 +1,0 @@
-public class FunctionUse15057 {
-
-    public void funcUse() {
-		org.apache.hadoop.ha.proto.ZKFCProtocolProtos.CedeActiveResponseProto cedeactiveresponseproto = new org.apache.hadoop.ha.proto.ZKFCProtocolProtos.CedeActiveResponseProto();
-		cedeactiveresponseproto.getUnknownFields(null);
-    }
-}

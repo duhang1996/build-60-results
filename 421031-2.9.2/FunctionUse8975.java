@@ -1,7 +1,0 @@
-public class FunctionUse8975 {
-
-    public void funcUse() {
-		org.apache.hadoop.ha.proto.HAServiceProtocolProtos.TransitionToActiveRequestProto transitiontoactiverequestproto = new org.apache.hadoop.ha.proto.HAServiceProtocolProtos.TransitionToActiveRequestProto();
-		transitiontoactiverequestproto.getParserForType(null);
-    }
-}

@@ -1,6 +1,0 @@
-public class FunctionUse854 {
-
-    public void funcUse() {
-		org.apache.hadoop.metrics.spi.AbstractMetricsContext.TagMap tagmap = new org.apache.hadoop.metrics.spi.AbstractMetricsContext.TagMap();
-    }
-}

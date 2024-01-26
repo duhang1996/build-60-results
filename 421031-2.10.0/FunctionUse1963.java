@@ -1,7 +1,0 @@
-public class FunctionUse1963 {
-
-    public void funcUse() {
-		org.apache.hadoop.io.file.tfile.Chunk.ChunkEncoder chunkencoder = new org.apache.hadoop.io.file.tfile.Chunk.ChunkEncoder();
-		chunkencoder.flush(null);
-    }
-}

@@ -1,6 +1,0 @@
-public class FunctionUse14021 {
-
-    public void funcUse() {
-		org.apache.hadoop.io.compress.SplitCompressionInputStream splitcompressioninputstream = new org.apache.hadoop.io.compress.SplitCompressionInputStream();
-    }
-}

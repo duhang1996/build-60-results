@@ -1,7 +1,0 @@
-public class FunctionUse5965 {
-
-    public void funcUse() {
-		org.apache.hadoop.record.CsvRecordOutput csvrecordoutput = new org.apache.hadoop.record.CsvRecordOutput();
-		csvrecordoutput.printCommaUnlessFirst(null);
-    }
-}

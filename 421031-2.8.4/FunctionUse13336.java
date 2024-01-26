@@ -1,7 +1,0 @@
-public class FunctionUse13336 {
-
-    public void funcUse() {
-		org.apache.hadoop.ha.proto.HAServiceProtocolProtos.TransitionToActiveResponseProto.Builder builder = new org.apache.hadoop.ha.proto.HAServiceProtocolProtos.TransitionToActiveResponseProto.Builder();
-		builder.build(null);
-    }
-}

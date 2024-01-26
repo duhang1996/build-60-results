@@ -1,7 +1,0 @@
-public class FunctionUse3234 {
-
-    public void funcUse() {
-		org.apache.hadoop.ipc.protobuf.IpcConnectionContextProtos.IpcConnectionContextProtoOrBuilder ipcconnectioncontextprotoorbuilder = new org.apache.hadoop.ipc.protobuf.IpcConnectionContextProtos.IpcConnectionContextProtoOrBuilder();
-		ipcconnectioncontextprotoorbuilder.getUserInfo(null);
-    }
-}

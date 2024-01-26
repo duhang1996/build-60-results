@@ -1,6 +1,0 @@
-public class FunctionUse16121 {
-
-    public void funcUse() {
-		org.apache.hadoop.util.ReflectionUtils reflectionutils = new org.apache.hadoop.util.ReflectionUtils();
-    }
-}

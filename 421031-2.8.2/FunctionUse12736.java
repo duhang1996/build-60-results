@@ -1,7 +1,0 @@
-public class FunctionUse12736 {
-
-    public void funcUse() {
-		org.apache.hadoop.security.alias.CredentialProvider credentialprovider = new org.apache.hadoop.security.alias.CredentialProvider();
-		credentialprovider.noPasswordWarning(null);
-    }
-}

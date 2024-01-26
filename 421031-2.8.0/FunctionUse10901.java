@@ -1,7 +1,0 @@
-public class FunctionUse10901 {
-
-    public void funcUse() {
-		org.apache.hadoop.metrics.MetricsServlet metricsservlet = new org.apache.hadoop.metrics.MetricsServlet();
-		metricsservlet.makeMap(null);
-    }
-}

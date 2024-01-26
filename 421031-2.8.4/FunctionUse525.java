@@ -1,7 +1,0 @@
-public class FunctionUse525 {
-
-    public void funcUse() {
-		org.apache.hadoop.util.IntrusiveCollection intrusivecollection = new org.apache.hadoop.util.IntrusiveCollection();
-		intrusivecollection.size(null);
-    }
-}

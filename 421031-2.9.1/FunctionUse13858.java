@@ -1,7 +1,0 @@
-public class FunctionUse13858 {
-
-    public void funcUse() {
-		org.apache.hadoop.service.launcher.ServiceLauncher servicelauncher = new org.apache.hadoop.service.launcher.ServiceLauncher();
-		servicelauncher.getClassLoader(null);
-    }
-}

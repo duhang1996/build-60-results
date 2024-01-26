@@ -1,6 +1,0 @@
-public class FunctionUse14809 {
-
-    public void funcUse() {
-		org.apache.hadoop.tracing.TraceAdmin traceadmin = new org.apache.hadoop.tracing.TraceAdmin();
-    }
-}

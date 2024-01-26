@@ -1,7 +1,0 @@
-public class FunctionUse5828 {
-
-    public void funcUse() {
-		org.apache.hadoop.io.CompressedWritable compressedwritable = new org.apache.hadoop.io.CompressedWritable();
-		compressedwritable.readFieldsCompressed(null);
-    }
-}

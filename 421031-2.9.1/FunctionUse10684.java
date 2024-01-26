@@ -1,7 +1,0 @@
-public class FunctionUse10684 {
-
-    public void funcUse() {
-		org.apache.hadoop.metrics2.MetricsSystemMXBean metricssystemmxbean = new org.apache.hadoop.metrics2.MetricsSystemMXBean();
-		metricssystemmxbean.start(null);
-    }
-}
