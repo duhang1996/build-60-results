@@ -1,7 +1,0 @@
-public class FunctionUse4489 {
-
-    public void funcUse() {
-		org.jboss.netty.handler.timeout.ReadTimeoutHandler readtimeouthandler = new org.jboss.netty.handler.timeout.ReadTimeoutHandler();
-		readtimeouthandler.readTimedOut(null);
-    }
-}

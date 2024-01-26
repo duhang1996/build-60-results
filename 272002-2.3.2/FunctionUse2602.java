@@ -1,7 +1,0 @@
-public class FunctionUse2602 {
-
-    public void funcUse() {
-		com.alibaba.dubbo.common.status.Status.Level level = new com.alibaba.dubbo.common.status.Status.Level();
-		level.values(null);
-    }
-}

@@ -1,7 +1,0 @@
-public class FunctionUse1219 {
-
-    public void funcUse() {
-		io.netty.handler.codec.http.HttpObjectDecoder httpobjectdecoder = new io.netty.handler.codec.http.HttpObjectDecoder();
-		httpobjectdecoder.isContentAlwaysEmpty(null);
-    }
-}

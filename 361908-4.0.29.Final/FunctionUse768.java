@@ -1,7 +1,0 @@
-public class FunctionUse768 {
-
-    public void funcUse() {
-		io.netty.handler.codec.http.DefaultFullHttpRequest defaultfullhttprequest = new io.netty.handler.codec.http.DefaultFullHttpRequest();
-		defaultfullhttprequest.setMethod(null);
-    }
-}

@@ -1,7 +1,0 @@
-public class FunctionUse151 {
-
-    public void funcUse() {
-		io.netty.handler.codec.http.cookie.CookieUtil cookieutil = new io.netty.handler.codec.http.cookie.CookieUtil();
-		cookieutil.validCookieNameOctets(null);
-    }
-}

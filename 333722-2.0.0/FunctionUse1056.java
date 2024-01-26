@@ -1,7 +1,0 @@
-public class FunctionUse1056 {
-
-    public void funcUse() {
-		com.fasterxml.jackson.databind.deser.ResolvableDeserializer resolvabledeserializer = new com.fasterxml.jackson.databind.deser.ResolvableDeserializer();
-		resolvabledeserializer.resolve(null);
-    }
-}

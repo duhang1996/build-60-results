@@ -1,7 +1,0 @@
-public class FunctionUse2677 {
-
-    public void funcUse() {
-		com.alibaba.dubbo.common.io.Bytes bytes = new com.alibaba.dubbo.common.io.Bytes();
-		bytes.bytes2base64(null);
-    }
-}

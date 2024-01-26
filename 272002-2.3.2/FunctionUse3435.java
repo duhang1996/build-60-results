@@ -1,7 +1,0 @@
-public class FunctionUse3435 {
-
-    public void funcUse() {
-		com.alibaba.dubbo.config.AbstractServiceConfig abstractserviceconfig = new com.alibaba.dubbo.config.AbstractServiceConfig();
-		abstractserviceconfig.getDocument(null);
-    }
-}

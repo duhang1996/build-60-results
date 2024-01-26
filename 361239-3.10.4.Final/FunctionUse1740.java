@@ -1,7 +1,0 @@
-public class FunctionUse1740 {
-
-    public void funcUse() {
-		org.jboss.netty.channel.socket.oio.OioClientSocketPipelineSink oioclientsocketpipelinesink = new org.jboss.netty.channel.socket.oio.OioClientSocketPipelineSink();
-		oioclientsocketpipelinesink.eventSunk(null);
-    }
-}

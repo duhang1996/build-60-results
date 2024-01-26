@@ -1,7 +1,0 @@
-public class FunctionUse3128 {
-
-    public void funcUse() {
-		com.alibaba.dubbo.common.json.GenericJSONConverter genericjsonconverter = new com.alibaba.dubbo.common.json.GenericJSONConverter();
-		genericjsonconverter.writeValue(null);
-    }
-}
