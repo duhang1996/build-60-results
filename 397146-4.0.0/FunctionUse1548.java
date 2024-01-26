@@ -1,0 +1,7 @@
+public class FunctionUse1548 {
+
+    public void funcUse() {
+		cn.hutool.core.map.MapProxy mapproxy = new cn.hutool.core.map.MapProxy();
+		mapproxy.remove(null);
+    }
+}

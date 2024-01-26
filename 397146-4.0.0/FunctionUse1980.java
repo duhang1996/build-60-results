@@ -1,0 +1,7 @@
+public class FunctionUse1980 {
+
+    public void funcUse() {
+		cn.hutool.core.util.ReflectUtil reflectutil = new cn.hutool.core.util.ReflectUtil();
+		reflectutil.isHashCodeMethod(null);
+    }
+}

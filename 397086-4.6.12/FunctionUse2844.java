@@ -1,0 +1,7 @@
+public class FunctionUse2844 {
+
+    public void funcUse() {
+		cn.hutool.core.util.ModifierUtil modifierutil = new cn.hutool.core.util.ModifierUtil();
+		modifierutil.isStatic(null);
+    }
+}

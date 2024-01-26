@@ -1,0 +1,7 @@
+public class FunctionUse851 {
+
+    public void funcUse() {
+		cn.hutool.core.getter.ListTypeGetter listtypegetter = new cn.hutool.core.getter.ListTypeGetter();
+		listtypegetter.getStrList(null);
+    }
+}

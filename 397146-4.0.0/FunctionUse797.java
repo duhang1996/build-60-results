@@ -1,0 +1,7 @@
+public class FunctionUse797 {
+
+    public void funcUse() {
+		cn.hutool.core.date.Week week = new cn.hutool.core.date.Week();
+		week.values(null);
+    }
+}

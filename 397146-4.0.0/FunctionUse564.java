@@ -1,0 +1,7 @@
+public class FunctionUse564 {
+
+    public void funcUse() {
+		cn.hutool.core.date.DateUtil dateutil = new cn.hutool.core.date.DateUtil();
+		dateutil.date(null);
+    }
+}

@@ -1,0 +1,7 @@
+public class FunctionUse3351 {
+
+    public void funcUse() {
+		cn.hutool.http.HttpRequest httprequest = new cn.hutool.http.HttpRequest();
+		httprequest.isIgnoreResponseBody(null);
+    }
+}

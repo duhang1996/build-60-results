@@ -1,0 +1,7 @@
+public class FunctionUse580 {
+
+    public void funcUse() {
+		cn.hutool.core.date.format.AbstractDateBasic abstractdatebasic = new cn.hutool.core.date.format.AbstractDateBasic();
+		abstractdatebasic.toString(null);
+    }
+}

@@ -1,0 +1,6 @@
+public class FunctionUse2206 {
+
+    public void funcUse() {
+		cn.hutool.core.map.multi.ListValueMap listvaluemap = new cn.hutool.core.map.multi.ListValueMap();
+    }
+}

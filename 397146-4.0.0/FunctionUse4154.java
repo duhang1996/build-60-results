@@ -1,0 +1,7 @@
+public class FunctionUse4154 {
+
+    public void funcUse() {
+		cn.hutool.poi.excel.ExcelReader excelreader = new cn.hutool.poi.excel.ExcelReader();
+		excelreader.removeHeaderAlias(null);
+    }
+}

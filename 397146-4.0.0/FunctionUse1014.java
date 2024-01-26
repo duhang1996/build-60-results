@@ -1,0 +1,7 @@
+public class FunctionUse1014 {
+
+    public void funcUse() {
+		cn.hutool.core.io.FileUtil fileutil = new cn.hutool.core.io.FileUtil();
+		fileutil.readUtf8Lines(null);
+    }
+}

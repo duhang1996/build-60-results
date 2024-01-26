@@ -1,0 +1,7 @@
+public class FunctionUse3546 {
+
+    public void funcUse() {
+		cn.hutool.log.dialect.slf4j.Slf4jLog slf4jlog = new cn.hutool.log.dialect.slf4j.Slf4jLog();
+		slf4jlog.isTraceEnabled(null);
+    }
+}
