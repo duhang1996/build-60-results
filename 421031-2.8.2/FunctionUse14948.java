@@ -1,0 +1,7 @@
+public class FunctionUse14948 {
+
+    public void funcUse() {
+		org.apache.hadoop.tracing.TraceAdminPB.AddSpanReceiverRequestProto addspanreceiverrequestproto = new org.apache.hadoop.tracing.TraceAdminPB.AddSpanReceiverRequestProto();
+		addspanreceiverrequestproto.access$4502(null);
+    }
+}

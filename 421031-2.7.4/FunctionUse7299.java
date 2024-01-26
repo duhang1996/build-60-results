@@ -1,0 +1,7 @@
+public class FunctionUse7299 {
+
+    public void funcUse() {
+		org.apache.hadoop.fs.viewfs.ViewFsLocatedFileStatus viewfslocatedfilestatus = new org.apache.hadoop.fs.viewfs.ViewFsLocatedFileStatus();
+		viewfslocatedfilestatus.getLen(null);
+    }
+}

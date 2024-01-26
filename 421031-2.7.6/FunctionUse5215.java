@@ -1,0 +1,6 @@
+public class FunctionUse5215 {
+
+    public void funcUse() {
+		org.apache.hadoop.ipc.WeightedRoundRobinMultiplexer weightedroundrobinmultiplexer = new org.apache.hadoop.ipc.WeightedRoundRobinMultiplexer();
+    }
+}

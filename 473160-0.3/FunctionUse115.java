@@ -1,0 +1,7 @@
+public class FunctionUse115 {
+
+    public void funcUse() {
+		ch.qos.logback.core.filter.Filter filter = new ch.qos.logback.core.filter.Filter();
+		filter.getNext(null);
+    }
+}

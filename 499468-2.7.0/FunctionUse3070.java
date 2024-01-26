@@ -1,0 +1,6 @@
+public class FunctionUse3070 {
+
+    public void funcUse() {
+		org.apache.dubbo.remoting.transport.AbstractClient abstractclient = new org.apache.dubbo.remoting.transport.AbstractClient();
+    }
+}

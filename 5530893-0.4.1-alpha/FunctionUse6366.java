@@ -1,0 +1,6 @@
+public class FunctionUse6366 {
+
+    public void funcUse() {
+		org.apache.hadoop.ozone.protocol.proto.OzoneManagerProtocolProtos.Part.1 1 = new org.apache.hadoop.ozone.protocol.proto.OzoneManagerProtocolProtos.Part.1();
+    }
+}

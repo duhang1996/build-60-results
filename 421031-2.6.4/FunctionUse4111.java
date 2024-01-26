@@ -1,0 +1,6 @@
+public class FunctionUse4111 {
+
+    public void funcUse() {
+		org.apache.hadoop.util.CacheableIPList cacheableiplist = new org.apache.hadoop.util.CacheableIPList();
+    }
+}

@@ -1,0 +1,6 @@
+public class FunctionUse8465 {
+
+    public void funcUse() {
+		org.apache.hadoop.ipc.RpcClientException rpcclientexception = new org.apache.hadoop.ipc.RpcClientException();
+    }
+}

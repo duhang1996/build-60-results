@@ -1,0 +1,7 @@
+public class FunctionUse858 {
+
+    public void funcUse() {
+		org.apache.hadoop.ozone.om.helpers.OmKeyLocationInfo omkeylocationinfo = new org.apache.hadoop.ozone.om.helpers.OmKeyLocationInfo();
+		omkeylocationinfo.getOffset(null);
+    }
+}

@@ -1,0 +1,6 @@
+public class FunctionUse15229 {
+
+    public void funcUse() {
+		org.apache.hadoop.util.LightWeightGSet.SetIterator setiterator = new org.apache.hadoop.util.LightWeightGSet.SetIterator();
+    }
+}

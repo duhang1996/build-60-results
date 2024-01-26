@@ -1,0 +1,7 @@
+public class FunctionUse13186 {
+
+    public void funcUse() {
+		org.apache.hadoop.security.UserGroupInformation.TestingGroups testinggroups = new org.apache.hadoop.security.UserGroupInformation.TestingGroups();
+		testinggroups.getGroups(null);
+    }
+}

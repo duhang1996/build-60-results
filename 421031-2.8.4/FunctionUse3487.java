@@ -1,0 +1,7 @@
+public class FunctionUse3487 {
+
+    public void funcUse() {
+		org.apache.hadoop.fs.FilterFs filterfs = new org.apache.hadoop.fs.FilterFs();
+		filterfs.unsetStoragePolicy(null);
+    }
+}

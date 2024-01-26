@@ -1,0 +1,6 @@
+public class FunctionUse15943 {
+
+    public void funcUse() {
+		org.apache.hadoop.util.MachineList.InetAddressFactory inetaddressfactory = new org.apache.hadoop.util.MachineList.InetAddressFactory();
+    }
+}

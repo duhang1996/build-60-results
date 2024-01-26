@@ -1,0 +1,7 @@
+public class FunctionUse14099 {
+
+    public void funcUse() {
+		org.apache.hadoop.tracing.TraceAdminProtocolTranslatorPB traceadminprotocoltranslatorpb = new org.apache.hadoop.tracing.TraceAdminProtocolTranslatorPB();
+		traceadminprotocoltranslatorpb.addSpanReceiver(null);
+    }
+}

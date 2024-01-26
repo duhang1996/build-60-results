@@ -1,0 +1,7 @@
+public class FunctionUse3581 {
+
+    public void funcUse() {
+		org.apache.hadoop.http.HttpServer2 httpserver2 = new org.apache.hadoop.http.HttpServer2();
+		httpserver2.addHandlerAtFront(null);
+    }
+}

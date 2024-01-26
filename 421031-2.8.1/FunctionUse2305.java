@@ -1,0 +1,7 @@
+public class FunctionUse2305 {
+
+    public void funcUse() {
+		org.apache.hadoop.fs.Path path = new org.apache.hadoop.fs.Path();
+		path.isUriPathAbsolute(null);
+    }
+}

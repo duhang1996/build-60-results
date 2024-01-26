@@ -1,0 +1,7 @@
+public class FunctionUse1995 {
+
+    public void funcUse() {
+		org.apache.dubbo.config.ProviderConfig providerconfig = new org.apache.dubbo.config.ProviderConfig();
+		providerconfig.setPrompt(null);
+    }
+}

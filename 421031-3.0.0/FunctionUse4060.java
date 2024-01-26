@@ -1,0 +1,7 @@
+public class FunctionUse4060 {
+
+    public void funcUse() {
+		org.apache.hadoop.tracing.TraceAdminProtocolTranslatorPB traceadminprotocoltranslatorpb = new org.apache.hadoop.tracing.TraceAdminProtocolTranslatorPB();
+		traceadminprotocoltranslatorpb.close(null);
+    }
+}

@@ -1,0 +1,7 @@
+public class FunctionUse12116 {
+
+    public void funcUse() {
+		org.apache.hadoop.security.proto.RefreshUserMappingsProtocolProtos refreshusermappingsprotocolprotos = new org.apache.hadoop.security.proto.RefreshUserMappingsProtocolProtos();
+		refreshusermappingsprotocolprotos.registerAllExtensions(null);
+    }
+}

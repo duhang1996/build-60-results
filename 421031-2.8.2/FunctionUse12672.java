@@ -1,0 +1,7 @@
+public class FunctionUse12672 {
+
+    public void funcUse() {
+		org.apache.hadoop.record.XmlRecordOutput xmlrecordoutput = new org.apache.hadoop.record.XmlRecordOutput();
+		xmlrecordoutput.writeInt(null);
+    }
+}

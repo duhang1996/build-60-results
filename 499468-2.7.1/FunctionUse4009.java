@@ -1,0 +1,7 @@
+public class FunctionUse4009 {
+
+    public void funcUse() {
+		org.apache.dubbo.remoting.transport.netty.NettyBackedChannelBuffer nettybackedchannelbuffer = new org.apache.dubbo.remoting.transport.netty.NettyBackedChannelBuffer();
+		nettybackedchannelbuffer.ensureWritableBytes(null);
+    }
+}

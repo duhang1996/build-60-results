@@ -1,0 +1,6 @@
+public class FunctionUse3223 {
+
+    public void funcUse() {
+		org.apache.hadoop.util.DiskChecker.DiskErrorException diskerrorexception = new org.apache.hadoop.util.DiskChecker.DiskErrorException();
+    }
+}

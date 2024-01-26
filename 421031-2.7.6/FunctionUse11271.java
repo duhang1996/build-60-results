@@ -1,0 +1,7 @@
+public class FunctionUse11271 {
+
+    public void funcUse() {
+		org.apache.hadoop.metrics.spi.CompositeContext compositecontext = new org.apache.hadoop.metrics.spi.CompositeContext();
+		compositecontext.stopMonitoring(null);
+    }
+}

@@ -1,0 +1,6 @@
+public class FunctionUse10453 {
+
+    public void funcUse() {
+		org.apache.hadoop.record.Record record = new org.apache.hadoop.record.Record();
+    }
+}

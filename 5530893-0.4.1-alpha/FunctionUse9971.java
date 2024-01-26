@@ -1,0 +1,6 @@
+public class FunctionUse9971 {
+
+    public void funcUse() {
+		org.apache.hadoop.ozone.protocol.proto.OzoneManagerProtocolProtos.GetAclResponse.1 1 = new org.apache.hadoop.ozone.protocol.proto.OzoneManagerProtocolProtos.GetAclResponse.1();
+    }
+}

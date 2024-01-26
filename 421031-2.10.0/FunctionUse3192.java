@@ -1,0 +1,7 @@
+public class FunctionUse3192 {
+
+    public void funcUse() {
+		org.apache.hadoop.security.ShellBasedIdMapping shellbasedidmapping = new org.apache.hadoop.security.ShellBasedIdMapping();
+		shellbasedidmapping.getGidAllowingUnknown(null);
+    }
+}

@@ -1,0 +1,7 @@
+public class FunctionUse10008 {
+
+    public void funcUse() {
+		org.apache.hadoop.net.unix.DomainSocketWatcher.Entry entry = new org.apache.hadoop.net.unix.DomainSocketWatcher.Entry();
+		entry.getDomainSocket(null);
+    }
+}

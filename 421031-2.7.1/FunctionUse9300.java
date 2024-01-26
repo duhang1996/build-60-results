@@ -1,0 +1,6 @@
+public class FunctionUse9300 {
+
+    public void funcUse() {
+		org.apache.hadoop.metrics2.lib.Interns interns = new org.apache.hadoop.metrics2.lib.Interns();
+    }
+}

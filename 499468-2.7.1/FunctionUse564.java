@@ -1,0 +1,7 @@
+public class FunctionUse564 {
+
+    public void funcUse() {
+		org.apache.dubbo.common.utils.StringUtils stringutils = new org.apache.dubbo.common.utils.StringUtils();
+		stringutils.getServiceKey(null);
+    }
+}

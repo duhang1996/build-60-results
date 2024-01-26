@@ -1,0 +1,6 @@
+public class FunctionUse13172 {
+
+    public void funcUse() {
+		org.apache.hadoop.util.bloom.RetouchedBloomFilter retouchedbloomfilter = new org.apache.hadoop.util.bloom.RetouchedBloomFilter();
+    }
+}

@@ -1,0 +1,7 @@
+public class FunctionUse4517 {
+
+    public void funcUse() {
+		org.apache.dubbo.rpc.protocol.dubbo.DubboInvoker dubboinvoker = new org.apache.dubbo.rpc.protocol.dubbo.DubboInvoker();
+		dubboinvoker.doInvoke(null);
+    }
+}

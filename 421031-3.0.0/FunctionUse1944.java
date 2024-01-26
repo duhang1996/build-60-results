@@ -1,0 +1,6 @@
+public class FunctionUse1944 {
+
+    public void funcUse() {
+		org.apache.hadoop.io.VersionedWritable versionedwritable = new org.apache.hadoop.io.VersionedWritable();
+    }
+}

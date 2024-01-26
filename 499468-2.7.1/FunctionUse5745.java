@@ -1,0 +1,6 @@
+public class FunctionUse5745 {
+
+    public void funcUse() {
+		org.apache.dubbo.registry.zookeeper.ZookeeperRegistry zookeeperregistry = new org.apache.dubbo.registry.zookeeper.ZookeeperRegistry();
+    }
+}

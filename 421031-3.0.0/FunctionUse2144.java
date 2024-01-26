@@ -1,0 +1,6 @@
+public class FunctionUse2144 {
+
+    public void funcUse() {
+		org.apache.hadoop.io.DataInputByteBuffer.Buffer buffer = new org.apache.hadoop.io.DataInputByteBuffer.Buffer();
+    }
+}

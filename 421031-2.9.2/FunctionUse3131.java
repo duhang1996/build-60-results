@@ -1,0 +1,6 @@
+public class FunctionUse3131 {
+
+    public void funcUse() {
+		org.apache.hadoop.record.compiler.JCompType.CCompType ccomptype = new org.apache.hadoop.record.compiler.JCompType.CCompType();
+    }
+}

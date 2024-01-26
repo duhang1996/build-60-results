@@ -1,0 +1,7 @@
+public class FunctionUse4291 {
+
+    public void funcUse() {
+		org.apache.hadoop.security.proto.SecurityProtos.TokenProto tokenproto = new org.apache.hadoop.security.proto.SecurityProtos.TokenProto();
+		tokenproto.toBuilder(null);
+    }
+}

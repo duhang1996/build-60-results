@@ -1,0 +1,6 @@
+public class FunctionUse10996 {
+
+    public void funcUse() {
+		org.apache.hadoop.fs.FSProtos.FileStatusProto.Flags.1 1 = new org.apache.hadoop.fs.FSProtos.FileStatusProto.Flags.1();
+    }
+}

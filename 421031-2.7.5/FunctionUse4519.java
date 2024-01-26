@@ -1,0 +1,7 @@
+public class FunctionUse4519 {
+
+    public void funcUse() {
+		org.apache.hadoop.ipc.proto.GenericRefreshProtocolProtos.GenericRefreshResponseProto genericrefreshresponseproto = new org.apache.hadoop.ipc.proto.GenericRefreshProtocolProtos.GenericRefreshResponseProto();
+		genericrefreshresponseproto.initFields(null);
+    }
+}

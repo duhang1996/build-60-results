@@ -1,0 +1,7 @@
+public class FunctionUse6907 {
+
+    public void funcUse() {
+		org.apache.hadoop.security.token.delegation.web.DelegationTokenAuthenticationFilter delegationtokenauthenticationfilter = new org.apache.hadoop.security.token.delegation.web.DelegationTokenAuthenticationFilter();
+		delegationtokenauthenticationfilter.getConfiguration(null);
+    }
+}

@@ -1,0 +1,7 @@
+public class FunctionUse7794 {
+
+    public void funcUse() {
+		org.apache.hadoop.ozone.protocol.proto.OzoneManagerProtocolProtos.BucketInfo.Builder builder = new org.apache.hadoop.ozone.protocol.proto.OzoneManagerProtocolProtos.BucketInfo.Builder();
+		builder.getBeinfoBuilder(null);
+    }
+}

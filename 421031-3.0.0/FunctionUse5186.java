@@ -1,0 +1,7 @@
+public class FunctionUse5186 {
+
+    public void funcUse() {
+		org.apache.hadoop.security.proto.SecurityProtos.CredentialsProto.Builder builder = new org.apache.hadoop.security.proto.SecurityProtos.CredentialsProto.Builder();
+		builder.isInitialized(null);
+    }
+}

@@ -1,0 +1,7 @@
+public class FunctionUse11778 {
+
+    public void funcUse() {
+		org.apache.hadoop.record.XmlRecordInput.Value value = new org.apache.hadoop.record.XmlRecordInput.Value();
+		value.addChars(null);
+    }
+}

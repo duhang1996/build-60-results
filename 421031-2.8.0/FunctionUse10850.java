@@ -1,0 +1,6 @@
+public class FunctionUse10850 {
+
+    public void funcUse() {
+		org.apache.hadoop.metrics.ContextFactory contextfactory = new org.apache.hadoop.metrics.ContextFactory();
+    }
+}

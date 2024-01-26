@@ -1,0 +1,6 @@
+public class FunctionUse5076 {
+
+    public void funcUse() {
+		org.apache.hadoop.io.Text text = new org.apache.hadoop.io.Text();
+    }
+}

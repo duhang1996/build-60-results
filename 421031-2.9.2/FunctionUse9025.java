@@ -1,0 +1,7 @@
+public class FunctionUse9025 {
+
+    public void funcUse() {
+		org.apache.hadoop.ha.proto.HAServiceProtocolProtos.HARequestSource harequestsource = new org.apache.hadoop.ha.proto.HAServiceProtocolProtos.HARequestSource();
+		harequestsource.internalGetValueMap(null);
+    }
+}

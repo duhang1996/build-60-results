@@ -1,0 +1,7 @@
+public class FunctionUse12297 {
+
+    public void funcUse() {
+		org.apache.hadoop.io.compress.BlockCompressorStream blockcompressorstream = new org.apache.hadoop.io.compress.BlockCompressorStream();
+		blockcompressorstream.rawWriteInt(null);
+    }
+}

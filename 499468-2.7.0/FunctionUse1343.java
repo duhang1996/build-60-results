@@ -1,0 +1,7 @@
+public class FunctionUse1343 {
+
+    public void funcUse() {
+		org.apache.dubbo.common.bytecode.ClassGenerator classgenerator = new org.apache.dubbo.common.bytecode.ClassGenerator();
+		classgenerator.getCtConstructor(null);
+    }
+}

@@ -1,0 +1,7 @@
+public class FunctionUse6525 {
+
+    public void funcUse() {
+		org.apache.dubbo.configcenter.consul.ConsulDynamicConfiguration.ConsulKVWatcher consulkvwatcher = new org.apache.dubbo.configcenter.consul.ConsulDynamicConfiguration.ConsulKVWatcher();
+		consulkvwatcher.stop(null);
+    }
+}

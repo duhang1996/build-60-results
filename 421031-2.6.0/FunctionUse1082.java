@@ -1,0 +1,7 @@
+public class FunctionUse1082 {
+
+    public void funcUse() {
+		org.apache.hadoop.fs.FileContext filecontext = new org.apache.hadoop.fs.FileContext();
+		filecontext.rename(null);
+    }
+}

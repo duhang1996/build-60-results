@@ -1,0 +1,6 @@
+public class FunctionUse1324 {
+
+    public void funcUse() {
+		org.apache.hadoop.crypto.key.kms.KMSClientProvider.1 1 = new org.apache.hadoop.crypto.key.kms.KMSClientProvider.1();
+    }
+}

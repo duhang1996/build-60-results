@@ -1,0 +1,7 @@
+public class FunctionUse7801 {
+
+    public void funcUse() {
+		org.apache.hadoop.security.UserGroupInformation usergroupinformation = new org.apache.hadoop.security.UserGroupInformation();
+		usergroupinformation.equals(null);
+    }
+}

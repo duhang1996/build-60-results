@@ -1,0 +1,7 @@
+public class FunctionUse10851 {
+
+    public void funcUse() {
+		org.apache.hadoop.metrics.ganglia.GangliaContext gangliacontext = new org.apache.hadoop.metrics.ganglia.GangliaContext();
+		gangliacontext.xdr_int(null);
+    }
+}

@@ -1,0 +1,7 @@
+public class FunctionUse14400 {
+
+    public void funcUse() {
+		org.apache.hadoop.conf.Configuration.Resource resource = new org.apache.hadoop.conf.Configuration.Resource();
+		resource.getName(null);
+    }
+}

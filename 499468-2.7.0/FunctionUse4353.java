@@ -1,0 +1,7 @@
+public class FunctionUse4353 {
+
+    public void funcUse() {
+		org.apache.dubbo.rpc.AsyncContextImpl asynccontextimpl = new org.apache.dubbo.rpc.AsyncContextImpl();
+		asynccontextimpl.write(null);
+    }
+}

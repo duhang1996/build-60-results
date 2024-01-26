@@ -1,0 +1,7 @@
+public class FunctionUse11835 {
+
+    public void funcUse() {
+		org.apache.hadoop.crypto.CryptoProtocolVersion cryptoprotocolversion = new org.apache.hadoop.crypto.CryptoProtocolVersion();
+		cryptoprotocolversion.setUnknownValue(null);
+    }
+}

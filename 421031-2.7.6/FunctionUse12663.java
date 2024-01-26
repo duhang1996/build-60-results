@@ -1,0 +1,7 @@
+public class FunctionUse12663 {
+
+    public void funcUse() {
+		org.apache.hadoop.ha.proto.HAServiceProtocolProtos.GetServiceStatusResponseProto.Builder builder = new org.apache.hadoop.ha.proto.HAServiceProtocolProtos.GetServiceStatusResponseProto.Builder();
+		builder.setState(null);
+    }
+}

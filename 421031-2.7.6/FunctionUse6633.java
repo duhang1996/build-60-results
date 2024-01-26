@@ -1,0 +1,7 @@
+public class FunctionUse6633 {
+
+    public void funcUse() {
+		org.apache.hadoop.fs.Trash trash = new org.apache.hadoop.fs.Trash();
+		trash.moveToAppropriateTrash(null);
+    }
+}

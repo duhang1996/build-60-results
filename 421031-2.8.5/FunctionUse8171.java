@@ -1,0 +1,6 @@
+public class FunctionUse8171 {
+
+    public void funcUse() {
+		org.apache.hadoop.security.proto.RefreshAuthorizationPolicyProtocolProtos.RefreshAuthorizationPolicyProtocolService.BlockingStub blockingstub = new org.apache.hadoop.security.proto.RefreshAuthorizationPolicyProtocolProtos.RefreshAuthorizationPolicyProtocolService.BlockingStub();
+    }
+}

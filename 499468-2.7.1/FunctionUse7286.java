@@ -1,0 +1,7 @@
+public class FunctionUse7286 {
+
+    public void funcUse() {
+		com.alibaba.com.caucho.hessian.io.BeanSerializerFactory beanserializerfactory = new com.alibaba.com.caucho.hessian.io.BeanSerializerFactory();
+		beanserializerfactory.getDefaultSerializer(null);
+    }
+}

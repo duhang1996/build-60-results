@@ -1,0 +1,7 @@
+public class FunctionUse5564 {
+
+    public void funcUse() {
+		org.apache.hadoop.metrics2.lib.MutableQuantiles mutablequantiles = new org.apache.hadoop.metrics2.lib.MutableQuantiles();
+		mutablequantiles.getEstimator(null);
+    }
+}

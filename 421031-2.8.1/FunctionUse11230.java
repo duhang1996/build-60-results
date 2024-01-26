@@ -1,0 +1,6 @@
+public class FunctionUse11230 {
+
+    public void funcUse() {
+		org.apache.hadoop.record.CsvRecordOutput csvrecordoutput = new org.apache.hadoop.record.CsvRecordOutput();
+    }
+}

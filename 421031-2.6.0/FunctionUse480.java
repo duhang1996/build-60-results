@@ -1,0 +1,6 @@
+public class FunctionUse480 {
+
+    public void funcUse() {
+		org.apache.hadoop.crypto.key.KeyShell.CreateCommand createcommand = new org.apache.hadoop.crypto.key.KeyShell.CreateCommand();
+    }
+}

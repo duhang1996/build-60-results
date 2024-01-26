@@ -1,0 +1,7 @@
+public class FunctionUse2239 {
+
+    public void funcUse() {
+		org.apache.dubbo.config.ServiceConfig serviceconfig = new org.apache.dubbo.config.ServiceConfig();
+		serviceconfig.getRef(null);
+    }
+}

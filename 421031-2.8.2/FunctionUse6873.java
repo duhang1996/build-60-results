@@ -1,0 +1,7 @@
+public class FunctionUse6873 {
+
+    public void funcUse() {
+		org.apache.hadoop.io.ShortWritable shortwritable = new org.apache.hadoop.io.ShortWritable();
+		shortwritable.hashCode(null);
+    }
+}

@@ -1,0 +1,7 @@
+public class FunctionUse1931 {
+
+    public void funcUse() {
+		org.apache.hadoop.io.retry.RetryInvocationHandler.Counters counters = new org.apache.hadoop.io.retry.RetryInvocationHandler.Counters();
+		counters.access$800(null);
+    }
+}

@@ -1,0 +1,7 @@
+public class FunctionUse4835 {
+
+    public void funcUse() {
+		org.apache.hadoop.io.compress.DecompressorStream decompressorstream = new org.apache.hadoop.io.compress.DecompressorStream();
+		decompressorstream.read(null);
+    }
+}

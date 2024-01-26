@@ -1,0 +1,6 @@
+public class FunctionUse508 {
+
+    public void funcUse() {
+		org.apache.hadoop.io.ElasticByteBufferPool.Key key = new org.apache.hadoop.io.ElasticByteBufferPool.Key();
+    }
+}

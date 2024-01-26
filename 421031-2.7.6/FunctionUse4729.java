@@ -1,0 +1,7 @@
+public class FunctionUse4729 {
+
+    public void funcUse() {
+		org.apache.hadoop.ipc.RetryCache.CacheEntry cacheentry = new org.apache.hadoop.ipc.RetryCache.CacheEntry();
+		cacheentry.setNext(null);
+    }
+}

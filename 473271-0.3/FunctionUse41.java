@@ -1,0 +1,7 @@
+public class FunctionUse41 {
+
+    public void funcUse() {
+		ch.qos.logback.classic.Level level = new ch.qos.logback.classic.Level();
+		level.toString(null);
+    }
+}

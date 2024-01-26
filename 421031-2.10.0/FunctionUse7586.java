@@ -1,0 +1,7 @@
+public class FunctionUse7586 {
+
+    public void funcUse() {
+		org.apache.hadoop.fs.ContentSummary.Builder builder = new org.apache.hadoop.fs.ContentSummary.Builder();
+		builder.access$200(null);
+    }
+}

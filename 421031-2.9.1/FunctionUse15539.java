@@ -1,0 +1,7 @@
+public class FunctionUse15539 {
+
+    public void funcUse() {
+		org.apache.hadoop.util.Shell shell = new org.apache.hadoop.util.Shell();
+		shell.getSymlinkCommand(null);
+    }
+}

@@ -1,0 +1,7 @@
+public class FunctionUse6646 {
+
+    public void funcUse() {
+		org.apache.hadoop.conf.ReconfigurableBase reconfigurablebase = new org.apache.hadoop.conf.ReconfigurableBase();
+		reconfigurablebase.reconfigurePropertyImpl(null);
+    }
+}

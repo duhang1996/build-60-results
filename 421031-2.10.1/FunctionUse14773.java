@@ -1,0 +1,7 @@
+public class FunctionUse14773 {
+
+    public void funcUse() {
+		org.apache.hadoop.ha.proto.HAServiceProtocolProtos.TransitionToObserverResponseProto transitiontoobserverresponseproto = new org.apache.hadoop.ha.proto.HAServiceProtocolProtos.TransitionToObserverResponseProto();
+		transitiontoobserverresponseproto.access$6900(null);
+    }
+}

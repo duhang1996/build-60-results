@@ -1,0 +1,7 @@
+public class FunctionUse5529 {
+
+    public void funcUse() {
+		org.apache.hadoop.io.compress.GzipCodec gzipcodec = new org.apache.hadoop.io.compress.GzipCodec();
+		gzipcodec.createDirectDecompressor(null);
+    }
+}

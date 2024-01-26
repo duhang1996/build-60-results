@@ -1,0 +1,7 @@
+public class FunctionUse1742 {
+
+    public void funcUse() {
+		org.apache.dubbo.config.ConfigCenterConfig configcenterconfig = new org.apache.dubbo.config.ConfigCenterConfig();
+		configcenterconfig.setNamespace(null);
+    }
+}

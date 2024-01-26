@@ -1,0 +1,7 @@
+public class FunctionUse1943 {
+
+    public void funcUse() {
+		org.apache.dubbo.config.builders.AbstractBuilder abstractbuilder = new org.apache.dubbo.config.builders.AbstractBuilder();
+		abstractbuilder.prefix(null);
+    }
+}

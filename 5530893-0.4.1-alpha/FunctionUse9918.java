@@ -1,0 +1,7 @@
+public class FunctionUse9918 {
+
+    public void funcUse() {
+		org.apache.hadoop.ozone.protocol.proto.OzoneManagerProtocolProtos.GetFileStatusRequest.Builder builder = new org.apache.hadoop.ozone.protocol.proto.OzoneManagerProtocolProtos.GetFileStatusRequest.Builder();
+		builder.setKeyArgs(null);
+    }
+}

@@ -1,0 +1,7 @@
+public class FunctionUse10160 {
+
+    public void funcUse() {
+		org.apache.hadoop.ipc.protobuf.TestProtos.AddRequestProto2.Builder builder = new org.apache.hadoop.ipc.protobuf.TestProtos.AddRequestProto2.Builder();
+		builder.setParams(null);
+    }
+}

@@ -1,0 +1,7 @@
+public class FunctionUse1392 {
+
+    public void funcUse() {
+		org.apache.commons.configuration2.io.FileHandler.3 3 = new org.apache.commons.configuration2.io.FileHandler.3();
+		3.updateBuilder(null);
+    }
+}

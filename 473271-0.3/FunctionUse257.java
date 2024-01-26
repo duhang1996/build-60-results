@@ -1,0 +1,6 @@
+public class FunctionUse257 {
+
+    public void funcUse() {
+		ch.qos.logback.classic.spi.LoggerContextAwareBase loggercontextawarebase = new ch.qos.logback.classic.spi.LoggerContextAwareBase();
+    }
+}

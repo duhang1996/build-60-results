@@ -1,0 +1,7 @@
+public class FunctionUse11401 {
+
+    public void funcUse() {
+		org.apache.hadoop.security.proto.SecurityProtos.TokenProto.Builder builder = new org.apache.hadoop.security.proto.SecurityProtos.TokenProto.Builder();
+		builder.setKindBytes(null);
+    }
+}

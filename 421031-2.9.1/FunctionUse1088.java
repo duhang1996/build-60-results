@@ -1,0 +1,7 @@
+public class FunctionUse1088 {
+
+    public void funcUse() {
+		org.apache.hadoop.fs.ContentSummary contentsummary = new org.apache.hadoop.fs.ContentSummary();
+		contentsummary.equals(null);
+    }
+}
